@@ -1,0 +1,6 @@
+gml_GlobalScript_scrChoiceWindowLoadSavefileVariables
+gml_GlobalScript_scrDrawChoiceWindow
+gml_Object_parChoiceWindow_Step_0
+PageItem 2403
+Texture50 (EmbeddedTexture)
+sprGamefileWindow
